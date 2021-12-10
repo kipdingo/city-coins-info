@@ -8,8 +8,8 @@ As of December 9, 2021, NYC city coin (or "NYCC"):
 
   1. join discord (https://chat.citycoins.co/)
   1. visit the "nyccoin - nyc" channel, and:
-      * ask if anyone is selling, or
-      * scroll through the history to find someone who posted recently that they're selling
+      * Ask if anyone is selling, or
+      * Scroll through the history to find someone who posted recently that they're selling
   1. connect with whoever that person is via DM, agree on terms
       * Specifically, you'll need to agree on how much STX you're offering, and how many NYCC you get.
       * This will often be stated like "0.02 STX per NYCC".
@@ -24,7 +24,7 @@ As of December 9, 2021, NYC city coin (or "NYCC"):
       * This is required for doing CityCoins stuff. Currently, your choices of supported wallets are Hiro or Xverse, but since you want to do a _swap_, you'll need to use Hiro – it's the only wallet that supports both CityCoins as well as swaps.
       * For reference, here's the list of supported wallets: https://docs.citycoins.co/about-citycoins/how-do-i-get-started
   1. transfer STX from earlier step (where you bought STX on an exchange)
-      * you need to send your STX from that exchange to your Hiro wallet.
+      * You need to send your STX from that exchange to your Hiro wallet.
 
 ## 3. set up the swap ##
   1. with STX in your Hiro wallet, you can proceed with setting up a swap
